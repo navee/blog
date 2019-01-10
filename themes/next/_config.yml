@@ -512,7 +512,7 @@ pangu: false
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: navee
   count: true
   lazyload: false
 

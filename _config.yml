@@ -81,3 +81,6 @@ deploy:
   type: git
   repo: https://gh_token@github.com/navee/navee.github.io.git
   branch: master
+
+sitemap:
+  path: sitemap.xml

@@ -84,3 +84,10 @@ deploy:
 
 sitemap:
   path: sitemap.xml
+
+# hexo-admin authentification
+admin:
+  username: navee
+  password_hash: $2a$10$f1NpLFYDRG6kxGrXfhbvGuc7wTIhcyE9Pcp9lXGyt.j6/tQYmOAii
+  secret: 4zRi0MYKTBibKPq2fWez6qH4qI0DAZda
+  deployCommand: './hexo-deploy.sh'

@@ -23,9 +23,9 @@ DefaultContentLanguage = "zh"
   Subtitle = ""
   Imglogo = "/img/logo.png"
   AuthorImg = "/img/author.jpg"
-  DateFormat = "2006-01-02"
-  YearFormat = "2006年"
-  MonthFormat = "01-02"
+  DateFormat = "yyyy-MM-dd"
+  YearFormat = "yyyy年"
+  MonthFormat = "MM-dd"
   RevolverMapId = "5b4f2ucxar6"
   Fancybox = true
 
